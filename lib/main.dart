@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         primaryColor: Colors.blueAccent,
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.blueAccent,
+          seedColor: Colors.deepPurple,
           primary: Colors.blueAccent,
         ),
         // دعم الخطوط المتناسقة لتصميم منظم واحترافي
